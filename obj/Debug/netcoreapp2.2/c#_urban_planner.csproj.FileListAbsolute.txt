@@ -1,0 +1,11 @@
+/Users/jakepreston/workspace/c#_urban_planner/obj/Debug/netcoreapp2.2/c#_urban_planner.csprojAssemblyReference.cache
+/Users/jakepreston/workspace/c#_urban_planner/obj/Debug/netcoreapp2.2/c#_urban_planner.csproj.CoreCompileInputs.cache
+/Users/jakepreston/workspace/c#_urban_planner/obj/Debug/netcoreapp2.2/c#_urban_planner.AssemblyInfoInputs.cache
+/Users/jakepreston/workspace/c#_urban_planner/obj/Debug/netcoreapp2.2/c#_urban_planner.AssemblyInfo.cs
+/Users/jakepreston/workspace/c#_urban_planner/bin/Debug/netcoreapp2.2/c#_urban_planner.deps.json
+/Users/jakepreston/workspace/c#_urban_planner/bin/Debug/netcoreapp2.2/c#_urban_planner.runtimeconfig.json
+/Users/jakepreston/workspace/c#_urban_planner/bin/Debug/netcoreapp2.2/c#_urban_planner.runtimeconfig.dev.json
+/Users/jakepreston/workspace/c#_urban_planner/bin/Debug/netcoreapp2.2/c#_urban_planner.dll
+/Users/jakepreston/workspace/c#_urban_planner/bin/Debug/netcoreapp2.2/c#_urban_planner.pdb
+/Users/jakepreston/workspace/c#_urban_planner/obj/Debug/netcoreapp2.2/c#_urban_planner.dll
+/Users/jakepreston/workspace/c#_urban_planner/obj/Debug/netcoreapp2.2/c#_urban_planner.pdb
