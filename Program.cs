@@ -17,7 +17,6 @@ namespace Planner
             PrestonBuilding.Construct();
             PrestonBuilding.Purchase("Jake Preston");
             PrestonBuilding.SetDesigner("Bob Ross");
-            PrestonBuilding.BuildingInfo();
 
             var nashville = new City()
             {
@@ -30,7 +29,8 @@ namespace Planner
 
             foreach (var b in nashville.Buildings)
             {
-                Console.WriteLine(b);
+                Console.WriteLine(nashville.Name);
+                b.BuildingInfo();
             }
         }
 
